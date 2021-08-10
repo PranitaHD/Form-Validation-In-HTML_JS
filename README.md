@@ -1,0 +1,2 @@
+# Form-Validation-In-HTML_JS
+Language :- HTML &amp; JavaScript with Bootstrap. This program is representing how to provide validations using complete JavaScript. User have to input their Name, Email, Address, Phone Number and at last select a Car. You will be seeing Validations while Filling the form. At the end Submit button will tell you that you have filled the form correctly or not. I have used Visual Studio Code here.
